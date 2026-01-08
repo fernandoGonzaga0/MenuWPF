@@ -3,3 +3,6 @@
 *.user
 *.suo
 *.vscode/
+# Build e temporários do Visual Studio / .NET
+bin/
+obj/
